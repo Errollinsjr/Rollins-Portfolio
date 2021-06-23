@@ -37,8 +37,13 @@ h1 {
   font-size: 30px;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
 }
+
 img {
   border-radius: 0.5rem;
+}
+
+.featured {
+  width: 500px;
 }
 
 .content {
@@ -152,7 +157,6 @@ img {
   text-align: center;
   margin: 30px;
 }
-
 
 .work h2 {
   color: black;
