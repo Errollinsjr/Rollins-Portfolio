@@ -1,6 +1,6 @@
 # Rollins-Portfolio
 
-Rollins, Ed's awesome portfolio site
+Rollins, Ed's portfolio site
 
 # Description
 
